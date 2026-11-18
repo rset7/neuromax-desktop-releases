@@ -1,6 +1,18 @@
 {
-  "currentRelease": "0.7.2",
+  "currentRelease": "0.7.3",
   "releases": [
+    {
+      "version": "0.7.3",
+      "updateTo": {
+        "version": "0.7.3",
+        "name": "Neuromax 0.7.3",
+        "notes": "# Neuromax 0.7.3\n\nAs cenas do qBank, flashcards e Neuropédia seguem agora a tipografia, as cores, os cartões e as proporções das sessões do Neuromax. Foram removidas faixas e explicações técnicas repetitivas, mantendo apenas mensagens úteis de erro, conexão e salvamento.\n\nCenas já preparadas sem anotações recebem a atualização visual ao abrir. Cenas com desenhos ou objetos sobrepostos preservam seu layout para manter as anotações alinhadas; para usar o novo visual, adicione novamente o conteúdo como uma nova cena. O conteúdo, as respostas e o progresso da aula são preservados.\n\nAtualize em **Neuromax Local → Atualizações…**. Feche o Estúdio antes de baixar e instalar.\n\nPara Mac com Apple Silicon (M1 ou posterior) e macOS 14 ou posterior.\n",
+        "pub_date": "2026-11-18T13:58:00.346Z",
+        "url": "https://github.com/rset7/neuromax-desktop-releases/releases/download/v0.7.3/Neuromax-Local-0.7.3-arm64.zip",
+        "sha256": "0f14eff6ef19a740e08513eb0f77c9825a643112150e392391b3c2c26c0b8412",
+        "size": 125116765
+      }
+    },
     {
       "version": "0.7.2",
       "updateTo": {
