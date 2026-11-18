@@ -1,0 +1,29 @@
+{
+  "currentRelease": "0.7.1",
+  "releases": [
+    {
+      "version": "0.7.1",
+      "updateTo": {
+        "version": "0.7.1",
+        "name": "Neuromax 0.7.1",
+        "notes": "# Neuromax 0.7.1\n\nPara Mac com Apple Silicon (M1 ou posterior) e macOS 14 ou posterior.\n\nAtualização da série 0.7 que corrige o título e o status ao criar uma aula vazia e configura atalhos de uma tecla em instalações novas, preservando personalizações existentes. Mantém as funções da 0.7.0: cenas offline de qBank, flashcards e Neuropédia, apresentação sem barras e atalhos configuráveis. O progresso das cenas permanece separado do progresso pessoal no acervo.\n\nUse Neuromax Local → Atualizações… para verificar a versão disponível. Salve a aula e feche o Estúdio antes de escolher o download. A verificação automática ao abrir é opcional; a versão baixada será instalada ao encerrar o aplicativo. Nenhuma apresentação é reiniciada automaticamente.\n\nAtalhos padrão: **B** caneta, **E** borracha, **P** mover, **V** interagir, **S** selecionar e **←/→** navegar. Campos editáveis mantêm a digitação. As preferências permitem personalizar os atalhos de apresentação.\n\n**Compatibilidade:** aulas com cenas usam o formato v3. Preserve cópias de seus documentos `.nxaula` e os dados de usuário. Não abra aulas v3 em versões antigas. A cópia local de uma cena pode ser apresentada sem internet; novas importações e serviços da conta exigem conexão.\n",
+        "pub_date": "2026-11-18T02:50:18.943Z",
+        "url": "https://github.com/rset7/neuromax-desktop-releases/releases/download/v0.7.1/Neuromax-Local-0.7.1-arm64.zip",
+        "sha256": "acc6f38869966de141f0343afb6991873f2332f93e4def0b60562cfc578a9220",
+        "size": 123867993
+      }
+    },
+    {
+      "version": "0.7.0",
+      "updateTo": {
+        "version": "0.7.0",
+        "name": "Neuromax 0.7.0",
+        "notes": "# Neuromax 0.7.0\n\nPara Mac com Apple Silicon (M1 ou posterior) e macOS 14 ou posterior.\n\n- Cenas de sessões do qBank, sessões de flashcards e artigos da Neuropédia no Estúdio de aulas. Prepare a cópia conectado; depois apresente o conteúdo e as imagens importadas sem internet.\n- Respostas, cartões revelados, posição e anotações pertencem à aula. O estudo em aula não altera seu progresso pessoal no acervo.\n- Apresentação sem barras, lateral recolhível e atalhos configuráveis. Nas preferências, configure B para caneta, E para borracha, P para mover, V para interagir, S para selecionar e setas esquerda/direita para navegar durante a apresentação. Campos editáveis preservam a digitação.\n- Recuperação explícita do último estado salvo quando uma cena para de responder. Alterações ainda não confirmadas podem não ser recuperáveis.\n- Canal de atualização no menu Neuromax Local → Atualizações…. Verificação ao abrir opcional; download mediante escolha e com o Estúdio fechado. A atualização baixada é instalada ao encerrar o aplicativo; reiniciar para instalar exige sua ação.\n\nAs cenas são cópias locais, não páginas conectadas ao acervo. Login, busca e importação de novos conteúdos exigem conexão e acesso à conta.\n\n**Compatibilidade:** aulas com cenas usam o formato v3. Faça cópias de segurança e não abra essas aulas em aplicativos antigos. Preserve seus documentos `.nxaula` e dados de usuário ao instalar. Esta versão é destinada a Apple Silicon; não oferece pacote Intel.\n",
+        "pub_date": "2026-11-18T02:42:19.436Z",
+        "url": "https://github.com/rset7/neuromax-desktop-releases/releases/download/v0.7.0/Neuromax-Local-0.7.0-arm64.zip",
+        "sha256": "d2011d0848ed180a5444dd3b972ff3ce178badfe6b930f8ffc919ed257b0930b",
+        "size": 123865920
+      }
+    }
+  ]
+}
