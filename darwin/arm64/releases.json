@@ -1,6 +1,18 @@
 {
-  "currentRelease": "0.7.3",
+  "currentRelease": "0.7.4",
   "releases": [
+    {
+      "version": "0.7.4",
+      "updateTo": {
+        "version": "0.7.4",
+        "name": "Neuromax 0.7.4",
+        "notes": "# Neuromax 0.7.4\n\nCorrige o recorte de PDFs, imagens e HTML ao ampliar ou mover o material no Estúdio. O conteúdo e as anotações agora podem ocupar toda a área visível, inclusive o espaço que antes ficava inacessível nas margens cinzas.\n\n“Ajustar” mostra a página inteira, preservando suas proporções. Com zoom, o limite passa a ser a borda real da área de trabalho. As coordenadas das anotações e dos materiais já salvos são preservadas.\n\nAtualize em **Neuromax Local → Atualizações…**, com o Estúdio fechado.\n\nPara Mac com Apple Silicon (M1 ou posterior) e macOS 14 ou posterior.\n",
+        "pub_date": "2026-11-18T16:43:18.997Z",
+        "url": "https://github.com/rset7/neuromax-desktop-releases/releases/download/v0.7.4/Neuromax-Local-0.7.4-arm64.zip",
+        "sha256": "6d248d745ce17707e031c616ba2921676f065d2362582fddf5a7b3b1b229305a",
+        "size": 125014446
+      }
+    },
     {
       "version": "0.7.3",
       "updateTo": {
