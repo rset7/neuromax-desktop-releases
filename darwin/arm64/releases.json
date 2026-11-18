@@ -1,6 +1,18 @@
 {
-  "currentRelease": "0.7.5",
+  "currentRelease": "0.7.6",
   "releases": [
+    {
+      "version": "0.7.6",
+      "updateTo": {
+        "version": "0.7.6",
+        "name": "Neuromax 0.7.6",
+        "notes": "O Estúdio ganhou uma navegação mais confortável para apresentar suas aulas.\n\n- Limitar ao slide: amplie e mova o material sem sair de suas bordas. A opção fica na barra, no menu Visualizar e nas Configurações; os quadros continuam livres.\n- Zoom de HTML com transição estável e refinamento de nitidez ao terminar o gesto.\n- Atalho V de Interagir corrigido no editor.\n- Fundo branco pontilhado e aparência mais clara.\n- Preferências e atalhos personalizados preservados.\n\nPara Macs com Apple Silicon e macOS 14 ou posterior.\n",
+        "pub_date": "2026-11-18T18:12:09.671Z",
+        "url": "https://github.com/rset7/neuromax-desktop-releases/releases/download/v0.7.6/Neuromax-Local-0.7.6-arm64.zip",
+        "sha256": "c38c16adddff4b156ba050d91074c7f567253f6541837faad7fe350f1b1bbf45",
+        "size": 125023319
+      }
+    },
     {
       "version": "0.7.5",
       "updateTo": {
