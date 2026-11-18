@@ -1,6 +1,18 @@
 {
-  "currentRelease": "0.7.4",
+  "currentRelease": "0.7.5",
   "releases": [
+    {
+      "version": "0.7.5",
+      "updateTo": {
+        "version": "0.7.5",
+        "name": "Neuromax 0.7.5",
+        "notes": "# Neuromax 0.7.5\n\nCorrige pequenas falhas claras nas pontas e junções dos traços da caneta. Linhas, curvas e cruzamentos agora têm preenchimento contínuo, inclusive quando a caneta muda de direção.\n\nA correção também se aplica aos traços já salvos: os pontos, a pressão e a espessura registrados são preservados.\n\nAtualize em **Neuromax Local → Atualizações…**, com o Estúdio fechado.\n\nPara Mac com Apple Silicon (M1 ou posterior) e macOS 14 ou posterior.\n",
+        "pub_date": "2026-11-18T17:17:39.688Z",
+        "url": "https://github.com/rset7/neuromax-desktop-releases/releases/download/v0.7.5/Neuromax-Local-0.7.5-arm64.zip",
+        "sha256": "71132901f654f21c9f167221112daeb572c04186c38611904ab16816714785fd",
+        "size": 125014309
+      }
+    },
     {
       "version": "0.7.4",
       "updateTo": {
