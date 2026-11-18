@@ -1,6 +1,18 @@
 {
-  "currentRelease": "0.7.6",
+  "currentRelease": "0.7.7",
   "releases": [
+    {
+      "version": "0.7.7",
+      "updateTo": {
+        "version": "0.7.7",
+        "name": "Neuromax 0.7.7",
+        "notes": "Agora você pode travar e destravar a navegação do slide pelo teclado.\n\n- Pressione L para alternar Limitar ao slide, no editor ou na apresentação.\n- Personalize a tecla em Configurações → Limitar ao slide.\n- Campos de texto mantêm a digitação normal; quadros continuam com navegação livre.\n- Atalhos antigos são preservados. Se L já estava em uso, o cadeado recebe uma combinação livre, exibida nas Configurações.\n\nPara Macs com Apple Silicon e macOS 14 ou posterior.\n",
+        "pub_date": "2026-11-18T18:56:31.665Z",
+        "url": "https://github.com/rset7/neuromax-desktop-releases/releases/download/v0.7.7/Neuromax-Local-0.7.7-arm64.zip",
+        "sha256": "66360cb1bab70b78c2c7b80381e2e793d7949674fa5daa98c5b2901ae96a3efc",
+        "size": 125025905
+      }
+    },
     {
       "version": "0.7.6",
       "updateTo": {
