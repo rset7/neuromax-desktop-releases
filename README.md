@@ -2,6 +2,8 @@
 
 Canal de distribuição do aplicativo Neuromax Local e do Estúdio de aulas Neuromax Aulas.
 
+[Página de download e instalação](https://neuromax-mac-download.lonestoat2.chatgpt.site).
+
 Os arquivos de instalação ficam em [Releases](https://github.com/rset7/neuromax-desktop-releases/releases). Somente versões assinadas com Developer ID e notarizadas pela Apple são publicadas como estáveis. Consulte os requisitos e as notas de cada versão antes de instalar.
 
 Este repositório contém pacotes públicos, notas de versão e metadados de atualização. Não contém o repositório de desenvolvimento, documentos de aula dos usuários, sessões de estudo ou credenciais.
