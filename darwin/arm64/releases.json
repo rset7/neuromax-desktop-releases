@@ -1,6 +1,18 @@
 {
-  "currentRelease": "0.7.1",
+  "currentRelease": "0.7.2",
   "releases": [
+    {
+      "version": "0.7.2",
+      "updateTo": {
+        "version": "0.7.2",
+        "name": "Neuromax 0.7.2",
+        "notes": "# Neuromax 0.7.2\n\nPara Mac com Apple Silicon (M1 ou posterior) e macOS 14 ou posterior.\n\nCorrige a abertura de aulas e a importação de cenas quando o Estúdio está fechado e sua aula inicial já contém uma cena interativa. O editor aguarda a preparação necessária antes de abrir o conteúdo solicitado, preservando o estado salvo.\n\nInclui cenas offline de sessões do qBank, flashcards e artigos da Neuropédia, apresentação sem barras, lateral recolhível e atalhos configuráveis. Os padrões para instalações novas são B (caneta), E (borracha), P (mover), V (interagir), S (selecionar) e setas esquerda/direita (navegar). Personalizações existentes são mantidas.\n\nPrepare o conteúdo conectado e apresente a cópia local sem internet. Respostas, revelações e posição pertencem à aula e ficam separadas do progresso pessoal de estudo.\n\nUse **Neuromax Local → Atualizações…** para buscar esta versão. Feche o Estúdio antes de baixar e instalar. A verificação automática ao abrir é opcional; a atualização baixada pode ser instalada ao encerrar normalmente ou por “Instalar e reiniciar”.\n\nAulas com cenas usam o formato v3. Preserve seus documentos `.nxaula` e não os abra em versões antigas. O pacote não inclui os dados da sua conta ou aulas pessoais.\n",
+        "pub_date": "2026-11-18T03:16:19.209Z",
+        "url": "https://github.com/rset7/neuromax-desktop-releases/releases/download/v0.7.2/Neuromax-Local-0.7.2-arm64.zip",
+        "sha256": "a6255fca04aa3ace527303e87cbb6d63fc4d0492002eacb89fe6168fcb249b2c",
+        "size": 123868846
+      }
+    },
     {
       "version": "0.7.1",
       "updateTo": {
