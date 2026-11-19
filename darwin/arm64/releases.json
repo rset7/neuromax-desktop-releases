@@ -1,6 +1,18 @@
 {
-  "currentRelease": "0.7.9",
+  "currentRelease": "0.7.10",
   "releases": [
+    {
+      "version": "0.7.10",
+      "updateTo": {
+        "version": "0.7.10",
+        "name": "Neuromax 0.7.10",
+        "notes": "Nas cenas do QBank, use A− e A+ para ajustar o tamanho do texto entre 80% e 200%. Clique no percentual para voltar a 100%. A aula guarda a escolha, e o quadro à direita mantém o próprio zoom.\n\nPara Macs com Apple Silicon e macOS 14 ou posterior.\n",
+        "pub_date": "2026-11-19T18:29:00.911Z",
+        "url": "https://github.com/rset7/neuromax-desktop-releases/releases/download/v0.7.10/Neuromax-Local-0.7.10-arm64.zip",
+        "sha256": "b70a773d4c046c80081b8646577abb7c8355fe0eeaaad807cbffc2154020693b",
+        "size": 125110779
+      }
+    },
     {
       "version": "0.7.9",
       "updateTo": {
