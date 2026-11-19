@@ -1,6 +1,18 @@
 {
-  "currentRelease": "0.7.11",
+  "currentRelease": "0.7.12",
   "releases": [
+    {
+      "version": "0.7.12",
+      "updateTo": {
+        "version": "0.7.12",
+        "name": "Neuromax 0.7.12",
+        "notes": "Durante a apresentação, pressione ] para aumentar ou [ para diminuir o texto de questões, flashcards e artigos da Neuropédia. Você pode personalizar os dois atalhos nas configurações do Estúdio.\n\nPara Macs com Apple Silicon e macOS 14 ou posterior.\n",
+        "pub_date": "2026-11-19T19:03:01.278Z",
+        "url": "https://github.com/rset7/neuromax-desktop-releases/releases/download/v0.7.12/Neuromax-Local-0.7.12-arm64.zip",
+        "sha256": "894f8a3e540c8c600b51319d2ec1d15dfa8593314c66144d64e9b4a981a673e9",
+        "size": 125111446
+      }
+    },
     {
       "version": "0.7.11",
       "updateTo": {
