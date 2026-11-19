@@ -1,6 +1,18 @@
 {
-  "currentRelease": "0.7.12",
+  "currentRelease": "0.7.13",
   "releases": [
+    {
+      "version": "0.7.13",
+      "updateTo": {
+        "version": "0.7.13",
+        "name": "Neuromax 0.7.13",
+        "notes": "Consulte os resultados da sessão do QBank e apresente o desempenho da sessão em um slide da aula.\n\nPara Macs com Apple Silicon e macOS 14 ou posterior.\n",
+        "pub_date": "2026-11-19T20:20:44.758Z",
+        "url": "https://github.com/rset7/neuromax-desktop-releases/releases/download/v0.7.13/Neuromax-Local-0.7.13-arm64.zip",
+        "sha256": "91f20ffbc8fed2d2a187b79bb46f40b0bc721537f169ddc538da3b65a2e0db24",
+        "size": 125374955
+      }
+    },
     {
       "version": "0.7.12",
       "updateTo": {
