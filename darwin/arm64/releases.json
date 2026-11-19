@@ -1,6 +1,18 @@
 {
-  "currentRelease": "0.7.10",
+  "currentRelease": "0.7.11",
   "releases": [
+    {
+      "version": "0.7.11",
+      "updateTo": {
+        "version": "0.7.11",
+        "name": "Neuromax 0.7.11",
+        "notes": "Nos flashcards e nos artigos da Neuropédia, use A− e A+ para ajustar o texto entre 80% e 200%, no editor e na apresentação. Cada cena guarda o tamanho escolhido. Clique no percentual para voltar a 100%.\n\nPara Macs com Apple Silicon e macOS 14 ou posterior.\n",
+        "pub_date": "2026-11-19T18:46:10.291Z",
+        "url": "https://github.com/rset7/neuromax-desktop-releases/releases/download/v0.7.11/Neuromax-Local-0.7.11-arm64.zip",
+        "sha256": "b7859209ad65f64ad81c53d3f9f400ddc137acb53ba2bee08e6516f040ec4f46",
+        "size": 125111163
+      }
+    },
     {
       "version": "0.7.10",
       "updateTo": {
