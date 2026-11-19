@@ -1,6 +1,18 @@
 {
-  "currentRelease": "0.7.7",
+  "currentRelease": "0.7.8",
   "releases": [
+    {
+      "version": "0.7.8",
+      "updateTo": {
+        "version": "0.7.8",
+        "name": "Neuromax 0.7.8",
+        "notes": "No Estúdio, escolha a cor da caneta com as teclas 1 a 6. As cores iniciais são verde, preto, azul, vermelho, laranja e roxo.\n\nUse 7 para a caneta fina (0,5), 8 para a média (1,5) e 9 para a grossa (3,0). Em Configurações, você pode trocar as seis cores, ajustar cada espessura de 0,1 a 3,0 e personalizar os atalhos.\n\nPara Macs com Apple Silicon e macOS 14 ou posterior.\n",
+        "pub_date": "2026-11-19T15:17:47.492Z",
+        "url": "https://github.com/rset7/neuromax-desktop-releases/releases/download/v0.7.8/Neuromax-Local-0.7.8-arm64.zip",
+        "sha256": "f0c7dbce213f19d86b95fba30f5d944abc5a5e67843c5c5d7e419f626afe4de8",
+        "size": 125043648
+      }
+    },
     {
       "version": "0.7.7",
       "updateTo": {
