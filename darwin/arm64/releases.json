@@ -1,6 +1,18 @@
 {
-  "currentRelease": "0.7.8",
+  "currentRelease": "0.7.9",
   "releases": [
+    {
+      "version": "0.7.9",
+      "updateTo": {
+        "version": "0.7.9",
+        "name": "Neuromax 0.7.9",
+        "notes": "As cenas do QBank, dos Flashcards e da Neuropédia agora têm um quadro à direita. Arraste a divisória para ajustar o espaço de cada lado. Responda uma questão por vez, revise um cartão por vez ou percorra o artigo enquanto escreve no quadro.\n\nPara Macs com Apple Silicon e macOS 14 ou posterior.\n",
+        "pub_date": "2026-11-19T16:13:56.565Z",
+        "url": "https://github.com/rset7/neuromax-desktop-releases/releases/download/v0.7.9/Neuromax-Local-0.7.9-arm64.zip",
+        "sha256": "a606972d759ddecc4eb9ed7e99e782a5a739855486ec4f32e56ec95efd18e487",
+        "size": 125109888
+      }
+    },
     {
       "version": "0.7.8",
       "updateTo": {
