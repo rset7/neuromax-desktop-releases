@@ -1,6 +1,18 @@
 {
-  "currentRelease": "0.7.13",
+  "currentRelease": "0.7.14",
   "releases": [
+    {
+      "version": "0.7.14",
+      "updateTo": {
+        "version": "0.7.14",
+        "name": "Neuromax 0.7.14",
+        "notes": "No Estúdio, você pode remover cenas da aula e reorganizar a ordem de apresentação.\n\nPara Macs com Apple Silicon e macOS 14 ou posterior.\n",
+        "pub_date": "2026-11-22T16:05:20.612Z",
+        "url": "https://github.com/rset7/neuromax-desktop-releases/releases/download/v0.7.14/Neuromax-Local-0.7.14-arm64.zip",
+        "sha256": "6235bdc113be5fdee5064ab7b634de9159fb5ec1f368993c834e81d0e0c97952",
+        "size": 125381391
+      }
+    },
     {
       "version": "0.7.13",
       "updateTo": {
