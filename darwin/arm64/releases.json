@@ -1,6 +1,18 @@
 {
-  "currentRelease": "0.7.15",
+  "currentRelease": "0.7.16",
   "releases": [
+    {
+      "version": "0.7.16",
+      "updateTo": {
+        "version": "0.7.16",
+        "name": "Neuromax 0.7.16",
+        "notes": "A caneta responde mais rápido enquanto você escreve sobre áreas que já contêm anotações.\n\nPara Macs com Apple Silicon e macOS 14 ou posterior.\n",
+        "pub_date": "2026-11-22T20:39:09.549Z",
+        "url": "https://github.com/rset7/neuromax-desktop-releases/releases/download/v0.7.16/Neuromax-Local-0.7.16-arm64.zip",
+        "sha256": "ada351b9da103e449bd8de0fa4569bac3409b1d1c9f867eb1f88f715a2c243e1",
+        "size": 125393954
+      }
+    },
     {
       "version": "0.7.15",
       "updateTo": {
