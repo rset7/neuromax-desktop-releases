@@ -1,6 +1,18 @@
 {
-  "currentRelease": "0.7.14",
+  "currentRelease": "0.7.15",
   "releases": [
+    {
+      "version": "0.7.15",
+      "updateTo": {
+        "version": "0.7.15",
+        "name": "Neuromax 0.7.15",
+        "notes": "O Estúdio recebeu uma correção na escrita rápida com a caneta.\n\nPara Macs com Apple Silicon e macOS 14 ou posterior.\n",
+        "pub_date": "2026-11-22T19:58:37.326Z",
+        "url": "https://github.com/rset7/neuromax-desktop-releases/releases/download/v0.7.15/Neuromax-Local-0.7.15-arm64.zip",
+        "sha256": "6270eb6678130dd5b5780405ef5924e8ef2732433082edc71f4c4f25da155a71",
+        "size": 125391037
+      }
+    },
     {
       "version": "0.7.14",
       "updateTo": {
